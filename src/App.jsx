@@ -17,7 +17,6 @@ import BlogDetails from './components/Blogs/BlogDetails'
 import ContactUs from './components/ContactUs'
 
 
-
 function App() {
 
 
